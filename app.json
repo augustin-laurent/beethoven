@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
-  "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
-  "keywords": ["discord", "discordjs", "music", "bot"]
+  "name": "Beethoven",
+  "description": "The best bot I created at this day, super duper friendly.",
+  "repository": "https://github.com/augustin-laurent/beethoven",
+  "logo": "https://i.etsystatic.com/5295440/c/428/340/189/281/il/e6426f/1934492703/il_340x270.1934492703_105s.jpg",
+  "keywords": ["discord", "discordjs", "music", "bot", "beethoven"]
 }

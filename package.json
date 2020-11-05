@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
-  "version": "0.8.0",
+  "name": "beethoven",
+  "version": "0.1.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
-  "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "author": "LAURENT Augustin",
+  "private": false,
+  "homepage": "https://github.com/augustin-laurent/beethoven",
+  "repository": "github:augustin-laurent/beethoven",
+  "bugs": "https://github.com/augustin-laurent/beethoven/issues",
   "engines": {
     "node": ">=12.0.0"
   },
